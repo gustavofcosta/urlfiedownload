@@ -1,7 +1,8 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import React, { useState } from 'react'
-import Button from '../components/button'
+import Button from '../components/Button'
+
 
 const Home: NextPage = () => {
 
